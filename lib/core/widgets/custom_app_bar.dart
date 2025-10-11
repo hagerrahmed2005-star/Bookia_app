@@ -4,7 +4,11 @@ import 'package:bookia_app/core/theme/app_colors.dart';
 import 'package:flutter/material.dart';
 
 class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
-  const CustomAppBar({super.key});
+  final String? title;
+  final bool withBackButton;
+  const CustomAppBar({super.key, this.title, 
+  this.withBackButton=true
+  });
 
   @override
   Widget build(BuildContext context) {
@@ -12,10 +16,12 @@ class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
       padding: const EdgeInsets.symmetric(horizontal: 16),
       child: AppBar(
         backgroundColor: Colors.transparent,
-        leading: InkWell(
+        title: title!=null?Text(title!):null,
+        leading:withBackButton? InkWell(
           onTap: (){
             Navigator.pop(context);
           },
+        
           child: Container(
             alignment: Alignment.center,
             decoration: BoxDecoration(
@@ -24,7 +30,7 @@ class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
             ),
             child: Icon(Icons.arrow_back_ios_new_outlined),
           ),
-        ),
+        ):null,
       ),
     );
   }

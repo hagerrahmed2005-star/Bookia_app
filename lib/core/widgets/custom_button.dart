@@ -3,6 +3,7 @@
 
 import 'package:bookia_app/core/theme/app_colors.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 class CustomButton extends StatelessWidget {
   final String title;
@@ -16,14 +17,14 @@ class CustomButton extends StatelessWidget {
       onTap: onTap,
       child: Container(
         width: double.infinity,
-        padding: EdgeInsets.symmetric(vertical: 20),
+        padding:  EdgeInsets.symmetric(vertical: 20.h),
         alignment: Alignment.center,
         decoration: BoxDecoration(
-          borderRadius: BorderRadius.circular(8),
+          borderRadius: BorderRadius.circular(8.r),
           color:backgroundColor?? AppColors.primaryColor
         ),
         child: Text(title,style: TextStyle(
-          fontSize: 15,
+          fontSize: 15.sp,
           color:backgroundColor==null? Colors.white:Colors.black
         ),),
       ),
