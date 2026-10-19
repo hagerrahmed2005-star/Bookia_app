@@ -1,3 +1,6 @@
+<img width="375" height="812" alt="Login" src="https://github.com/user-attachments/assets/67fbd698-26af-44c6-a051-1118cca9aa54" />
+<img width="375" height="812" alt="Register" src="https://github.com/user-attachments/assets/43c6713e-9ec5-43b1-9a21-d67973135ee5" />
+<img width="375" height="812" alt="Welcome" src="https://github.com/user-attachments/assets/2a51e2fe-a908-4cab-9c79-032de98b9c27" />
 <img width="1080" height="2400" alt="Screenshot_1792003872" src="https://github.com/user-attachments/assets/560e91b9-0b8c-4e96-8252-a3f786732734" />
 # bookia_app
 
