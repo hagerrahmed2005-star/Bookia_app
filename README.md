@@ -1,3 +1,6 @@
+![Uploading Wishlist.png…]()
+<img width="1500" height="4056" alt="Home" src="https://github.com/user-attachments/assets/7aa500a2-74da-40c0-8f14-e1abb92888a2" />
+<img width="1500" height="3248" alt="Book Details" src="https://github.com/user-attachments/assets/004425bb-5829-4540-901b-c784272cf0d1" />
 <img width="375" height="812" alt="Login" src="https://github.com/user-attachments/assets/67fbd698-26af-44c6-a051-1118cca9aa54" />
 <img width="375" height="812" alt="Register" src="https://github.com/user-attachments/assets/43c6713e-9ec5-43b1-9a21-d67973135ee5" />
 <img width="375" height="812" alt="Welcome" src="https://github.com/user-attachments/assets/2a51e2fe-a908-4cab-9c79-032de98b9c27" />
