@@ -1,3 +1,6 @@
+<img width="1500" height="3248" alt="update profile" src="https://github.com/user-attachments/assets/033a915f-e3c5-43f0-b97f-c2a3163e2d1e" />
+<img width="1500" height="3248" alt="update password" src="https://github.com/user-attachments/assets/9c26e6c7-d872-4c26-a088-675f1f5aa8e0" />
+<img width="1125" height="2436" alt="Profile" src="https://github.com/user-attachments/assets/bd4f31b7-a0fe-4d27-b657-8105e39eeea1" />
 ![Uploading Wishlist.png…]()
 <img width="1500" height="4056" alt="Home" src="https://github.com/user-attachments/assets/7aa500a2-74da-40c0-8f14-e1abb92888a2" />
 <img width="1500" height="3248" alt="Book Details" src="https://github.com/user-attachments/assets/004425bb-5829-4540-901b-c784272cf0d1" />
